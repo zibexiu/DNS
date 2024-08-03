@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/a7cf95</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>DNS Chặn thu hồi 1✅</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.a7cf95.profile.dnsSettings.managed</string>
+			<key>PayloadOrganization</key>
+			<string>DNS Yen🌷</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.a7cf95</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/881bd9</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>DNS Chặn thu hồi 2✅</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.881bd9.profile.dnsSettings.managed</string>
+			<key>PayloadOrganization</key>
+			<string>DNS Yen🌷</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.881bd9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string> Meke by Nguyễn Phương Di🌷
+
+- ❎KHÔNG TẮT NGUỒN IPHONE
+- ❎KHÔNG DÙNG VPN
+- ❎KHÔNG ĐỔI DNS QUA TỰ ĐỘNG </string>
+	<key>PayloadDisplayName</key>
+	<string>DNS Yen🌷</string>
+	<key>PayloadIdentifier</key>
+	<string>ultralow.dns.nextdns.io</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
